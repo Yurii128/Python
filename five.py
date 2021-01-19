@@ -13,3 +13,4 @@ if result == 0:
 if result >= 1:
     personnel = int(input('Сколько человек в штате?'))
     print(f"{result / personnel:.2f}", 'прибыли от одного сотрудника')
+    
