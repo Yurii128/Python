@@ -5,5 +5,4 @@ while number > 10:
     number //= 10
     if b > a:
      a = b
-        
 print(a)
